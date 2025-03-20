@@ -1,0 +1,19 @@
+import { Flex } from '@chakra-ui/react';
+import AuthForm from '../../organisms/AuthForm/AuthForm';
+
+export default function SigninPage() {
+  return (
+    <Flex
+      py={{ base: 50, sm: 100 }}
+      px={{ base: 4 }}
+      justify={'center'}
+      backgroundImage="url('/images/bg-form.jpg')"
+      backgroundPosition="center"
+      backgroundRepeat="no-repeat"
+      backgroundSize="cover"
+      backgroundColor={'dark'}
+    >
+      <AuthForm title="Войти" type="signin" />
+    </Flex>
+  );
+}
