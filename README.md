@@ -1,8 +1,8 @@
 # GreenMind - Платформа для устойчивого развития и охраны окружающей среды
 
 <div style="display: flex;">
-    <img src="https://i.ibb.co/TxFX0ZNn/main-Users.gif" alt="Дашборд пользователя GreenMind" width='400px' style="margin-right: 10px;" />
-    <img src="https://i.ibb.co/272xL356/main-Company.gif" alt="Дашборд компании GreenMind" width='400px' />
+    ![Дашборд пользователя GreenMind](readme_images/pageUsers.gif)
+    ![Дашборд компании GreenMind](readme_images/pageCompany.gif)
 </div>
 
 ## Описание
@@ -51,27 +51,25 @@ GreenMind - это веб-платформа, объединяющая поль�
 
 ## Технологии
 
-*   **Клиент (Frontend):**
+*   **Frontend:**
     *   React.js
     *   React Router DOM
+    *   Redux Toolkit
     *   Axios
-    *   @chakra-ui/react
-    *   @emotion/react
-    *   @emotion/styled
-    *   @reduxjs/toolkit
-    *   framer-motion
-    *   react-hook-form
-    *   react-icons
-    *   react-redux
-    *   swiper
-    *   victory
+    *   Chakra UI
+    *   Framer Motion
+    *   React Hook Form
+    *   React Icons
+    *   Swiper
+    *   Victory
     *   Vite
+    *   TypeScript
 
-*   **Сервер (Backend):**
+*   **Backend:**
     *   Node.js
     *   Express.js
-    *   PostgreSQL
     *   Sequelize
+    *   PostgreSQL
     *   bcrypt
     *   cookie-parser
     *   cors
