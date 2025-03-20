@@ -2,8 +2,8 @@
 
 <div style="display: flex">
     <figure style="display: flex; flex-direction: column;">
-        <figcaption>Страница пользователей</figcaption>
         <img src="readme_images/pageUsers.gif" alt="Страница пользователей GreenMind" border="0" width='400px' style="margin-right: 10px;" />
+        <figcaption>Страница пользователей</figcaption>
     </figure>
     <figure style="display: flex; flex-direction: column;">
         <figcaption>Страница компании</figcaption>
