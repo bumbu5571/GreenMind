@@ -1,14 +1,8 @@
 # GreenMind - Платформа для устойчивого развития и охраны окружающей среды
 
 <div style="display: flex">
-    <figure style="display: flex; flex-direction: column;">
-        <img src="readme_images/pageUsers.gif" alt="Страница пользователей GreenMind" border="0" width='400px' style="margin-right: 10px;" />
-        <figcaption>Страница пользователей</figcaption>
-    </figure>
-    <figure style="display: flex; flex-direction: column;">
-        <figcaption>Страница компании</figcaption>
-        <img src="readme_images/pageCompany.gif" alt="Страница компании GreenMind" border="0" width='400px' />
-    </figure>
+    <img src="readme_images/pageUsers.gif" alt="Страница пользователей GreenMind" border="0" width='400px' style="margin-right: 10px;" />
+    <img src="readme_images/pageCompany.gif" alt="Страница компании GreenMind" border="0" width='400px' />
 </div>
 
 ## Описание
