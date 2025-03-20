@@ -1,9 +1,7 @@
 # GreenMind - Платформа для устойчивого развития и охраны окружающей среды
 
-<div style="display: flex;">
-    ![Дашборд пользователя GreenMind](readme_images/pageUsers.gif)
-    ![Дашборд компании GreenMind](readme_images/pageCompany.gif)
-</div>
+![Дашборд пользователя GreenMind](readme_images/pageUsers.gif)
+![Дашборд компании GreenMind](readme_images/pageCompany.gif)
 
 ## Описание
 
